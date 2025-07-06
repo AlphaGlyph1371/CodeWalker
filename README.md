@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>CodeWalker by dexyfex</h1>
+    <h1>CodeWalker by dexyfex (this repository is a Fork)</h1>
     This program is for viewing the contents of GTAV RPF archives.
 </div>
 
